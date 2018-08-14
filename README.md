@@ -1,3 +1,3 @@
-# CPSC242-Palindrome-String-Assembly
+Palindrome-String-Assembly
 
 This project is build and tested on window machine.
